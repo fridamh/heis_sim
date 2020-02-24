@@ -1,0 +1,6 @@
+*.out
+*.o
+*.hex
+elevator
+build
+*.swp
